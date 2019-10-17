@@ -1,0 +1,7 @@
+C:\Users\zbz\source\repos\Pentago\Pentago\bin\Debug\Pentago.exe.config
+C:\Users\zbz\source\repos\Pentago\Pentago\bin\Debug\Pentago.exe
+C:\Users\zbz\source\repos\Pentago\Pentago\bin\Debug\Pentago.pdb
+C:\Users\zbz\source\repos\Pentago\Pentago\obj\Debug\Pentago.csprojAssemblyReference.cache
+C:\Users\zbz\source\repos\Pentago\Pentago\obj\Debug\Pentago.csproj.CoreCompileInputs.cache
+C:\Users\zbz\source\repos\Pentago\Pentago\obj\Debug\Pentago.exe
+C:\Users\zbz\source\repos\Pentago\Pentago\obj\Debug\Pentago.pdb
